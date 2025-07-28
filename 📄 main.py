@@ -1,4 +1,4 @@
+from agentic_ai_launcher import launch_agent
 
-app.py
-     run_agent.py
-     agentic_ai_launcher.py
+if __name__ == "__main__":
+    launch_agent()
